@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Djibril BA</h1>
 <h3 align="center">Software Developer🚀</h3>
 
-- 🔭 I’m currently working on IDILL Global Services [IDILL](idillglobalservices.com)
+- 🔭 I’m currently working on IDILL Global Services Group
 
 - 🌱 I’m currently learning **React - Angular - Laravel**
 
