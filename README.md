@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on IDILL Global Services Group
 
-- 🌱 I’m currently learning **React - Angular - Laravel**
+- 🌱 I’m currently learning **React - Angular - Vuejs - Laravel**
 
 - 👨‍💻 My profil [https://djibba.github.io/Portfolio/](https://djibba.github.io/Portfolio/)
 
-- 📫 How to reach me **djibbagueye@gmail.com**
+- 📫 How to reach me **djibbagueye@gmail.com** / **djibril15.ba@ucad.edu.sn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
