@@ -1,5 +1,5 @@
-<h1 align="center">「 I am a full stack web appplication developer from <b>Senegal</b> 」</h1>
-<h3 align="center">Software Developer🚀</h3>
+<h1 align="center">Hey There!, I am DJIBRIL BA</h1>
+<h3 align="center">「 I am a full stack web appplication developer from <b>Senegal</b> 」</h3>
 
 - 🔭 I’m currently working on IDILL Global Services Group
 
